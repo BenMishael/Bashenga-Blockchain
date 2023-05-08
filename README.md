@@ -23,7 +23,7 @@ git clone https://github.com/BenMishael/Bashenga-Blockchain.git
 2. Go to the folder "bashenga-coin":
 
 ```sh
-cd bashenga-coin
+cd Bashenga-Blockchain
 ```
 
 4. Install the required packages by running `npm install`.
