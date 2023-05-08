@@ -1,0 +1,19 @@
+{
+  "name": "bc_part_4_1---full",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockchain4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloom-filters": "^1.3.9",
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "fully-connected-topology": "^1.1.1",
+    "merkletreejs": "^0.2.26"
+  }
+}
