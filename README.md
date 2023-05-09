@@ -20,7 +20,7 @@ To run Bashenga Coin, you need to have Node.js installed on your machine. You ca
 git clone https://github.com/BenMishael/Bashenga-Blockchain.git
 ```
 
-2. Go to the folder "bashenga-coin":
+2. Go to the folder "Bashenga-Blockchain":
 
 ```sh
 cd Bashenga-Blockchain
